@@ -1,4 +1,4 @@
-# Abot Me!:
+# About Me!:
 <br><br>Hi! I’m Azaneth, a Biomedical Physicist with a strong background in data analysis and experimental research. I combine my experience in physics with data science to extract insights, build predictive models, and create meaningful visualizations.<br><br>I’ve developed predictive models for molecular property estimation, worked with meteorological datasets and radioisotope quality control measurements — applying tools like Python (Pandas, Matplotlib) and MATLAB for data processing, visualization, and statistical analysis.<br>My scientific background includes experimental work in material characterization, medical imaging systems, and radioactive tracers — experience that has shaped my analytical thinking and problem-solving skills.<br><br>💡 Interests: Data visualization · Predictive modeling · Applied statistics · Experimental data analysis<br>⚡ Skills: Python · Pandas · Matplotlib · MATLAB · Data cleaning & preprocessing · SQL · Tensorflow<br>🌱 Always learning and exploring new ways to turn data into knowledge.<br><br>---<br><br>
 
 
